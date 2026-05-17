@@ -1,0 +1,157 @@
+llm,query,first_brand,sentiment_sony,sentiment_beats,sentiment_soundcore
+chatgpt,Tell me about Sony Headphones - Are they any good?,Sony,0.9941,0.0,0.0
+chatgpt,Tell me about Sony Headphones - Are they any good?,Sony,0.9932,0.0,0.0
+chatgpt,Tell me about Beats Headphones - Are they any good?,Beats,0.9957,0.9957,0.0
+chatgpt,Tell me about Beats Headphones - Are they any good?,Beats,0.9968,0.9968,0.0
+chatgpt,Tell me about Soundcore Headphones - Are they any good?,Soundcore,0.9933,0.0,0.9933
+chatgpt,Tell me about Soundcore Headphones - Are they any good?,Soundcore,0.0,0.0,0.9962
+chatgpt,What are the most popular headphone brands in 2025?,Sony,0.9796,0.9796,0.0
+chatgpt,What are the most popular headphone brands in 2025?,Sony,0.9847,0.9847,0.0
+chatgpt,What are the best wireless headphones under $200?,Sony,0.9983,0.0,0.9983
+chatgpt,What are the best wireless headphones under $200?,Sony,0.9985,0.0,0.9985
+chatgpt,"I’ve been researching a lot of the well-known headphone brands like Sony, Bose, Soundcore and Sennheiser, but honestly, I’m feeling pretty overwhelmed by all the options. I’m looking for a good recommendation—something high quality, but I’d like to keep it under $300. What would you suggest?",Sony,0.9976,0.0,0.9976
+chatgpt,"I’ve been researching a lot of the well-known headphone brands like Sony, Bose, Soundcore and Sennheiser, but honestly, I’m feeling pretty overwhelmed by all the options. I’m looking for a good recommendation—something high quality, but I’d like to keep it under $300. What would you suggest?",Sony,0.9975,0.0,0.9975
+chatgpt,What are the best headphones in 2025?,Sony,0.9934,0.0,0.0
+chatgpt,What are the best headphones in 2025?,Sony,0.9952,0.0,0.0
+chatgpt,"What are the best headphones in each price range (budget, mid-range, premium)?",Soundcore,0.9972,0.0,0.9972
+chatgpt,"What are the best headphones in each price range (budget, mid-range, premium)?",Soundcore,0.9959,0.0,0.9959
+chatgpt,What are the best headphones with best sound quality?,Sennheiser,0.95085,0.0,0.0
+chatgpt,What are the best headphones with best sound quality?,Sennheiser,0.9969,0.0,0.0
+chatgpt,What are the best headphones with great battery life?,Sony,0.9977,0.9977,0.9977
+chatgpt,What are the best headphones with great battery life?,Sony,0.9978,0.9978,0.9978
+chatgpt,What are the best headphones for working from home or in an office?,Sony,0.999,0.0,0.999
+chatgpt,What are the best headphones for working from home or in an office?,Sony,0.9994,0.0,0.9994
+chatgpt,What are the best headphones for working out at the gym?,Sony,0.9983,0.9983,0.0
+chatgpt,What are the best headphones for working out at the gym?,Bose,0.9984,0.9984,0.9984
+chatgpt,What are the best headphones with good active noise cancellation?,Sony,0.9972,0.0,0.9972
+chatgpt,What are the best headphones with good active noise cancellation?,Sony,0.9976,0.0,0.9976
+chatgpt,Are expensive headphones worth it compared with cheaper headphones?,Sony,0.9918,0.0,0.0
+chatgpt,Are expensive headphones worth it compared with cheaper headphones?,Sony,0.9967,0.0,0.0
+chatgpt,What are some underrated headphone brands in 2025?,Sony,0.9953,0.0,0.0
+chatgpt,What are some underrated headphone brands in 2025?,None,0.0,0.0,0.0
+chatgpt,Sony WH-1000XM5 vs Beats Studio Pro - which is better and why?,Sony,0.9955,0.9955,0.0
+chatgpt,Sony WH-1000XM5 vs Beats Studio Pro - which is better and why?,Sony,0.9933,0.9933,0.0
+chatgpt,"Compare Sony, Beats, and Bose headphones overall – which is better and why?",Sony,0.9984,0.9984,0.0
+chatgpt,"Compare Sony, Beats, and Bose headphones overall – which is better and why?",Sony,0.9989,0.9989,0.0
+chatgpt,Soundcore Space Q45 vs Sony WH-CH720N comparison,Soundcore,0.996,0.0,0.996
+chatgpt,Soundcore Space Q45 vs Sony WH-CH720N comparison,Soundcore,0.9966,0.0,0.9966
+chatgpt,Are Beats headphones worth the price compared with Sony headphones?,Beats,0.9965,0.9965,0.0
+chatgpt,Are Beats headphones worth the price compared with Sony headphones?,Sony,0.9947,0.9947,0.0
+chatgpt,Which headphone brand has the best noise cancellation?,Sony,0.9906,0.0,0.0
+chatgpt,Which headphone brand has the best noise cancellation?,Sony,0.9915,0.0,0.0
+chatgpt,What are the best headphones for bass-heavy music?,Sony,0.9976,0.9976,0.0
+chatgpt,What are the best headphones for bass-heavy music?,Sony,0.9979,0.9979,0.0
+chatgpt,What are the most durable headphones that can last for years of daily use?,Sennheiser,0.9904,0.0,0.0
+chatgpt,What are the most durable headphones that can last for years of daily use?,Sennheiser,0.9805,0.0,0.0
+chatgpt,Which headphones have the best battery life?,Sony,0.9628,0.0,0.9628
+chatgpt,Which headphones have the best battery life?,Sony,0.9865,0.0,0.9865
+chatgpt,What are the best headphones for gaming on budget?,None,0.0,0.0,0.0
+chatgpt,What are the best headphones for gaming on budget?,None,0.0,0.0,0.0
+chatgpt,How has the headphone market changed over the past 5 years? Which brands have risen or declined?,Sony,0.9971,0.9971,0.9971
+chatgpt,How has the headphone market changed over the past 5 years? Which brands have risen or declined?,Sony,0.9975,0.9975,0.0
+chatgpt,"Compare how Sony, Beats, and Soundcore have evolved as brands in recent years.",Sony,0.9966,0.9966,0.9966
+chatgpt,"Compare how Sony, Beats, and Soundcore have evolved as brands in recent years.",Sony,0.9981,0.9981,0.9981
+claude,Tell me about Sony Headphones - Are they any good?,Sony,0.9958,0.0,0.0
+claude,Tell me about Sony Headphones - Are they any good?,Sony,0.9941,0.0,0.0
+claude,Tell me about Beats Headphones - Are they any good?,Beats,0.9869,0.9869,0.0
+claude,Tell me about Beats Headphones - Are they any good?,Beats,0.9818,0.9818,0.0
+claude,Tell me about Soundcore Headphones - Are they any good?,Soundcore,0.9828,0.0,0.9828
+claude,Tell me about Soundcore Headphones - Are they any good?,Soundcore,0.9868,0.0,0.9868
+claude,What are the most popular headphone brands in 2025?,Sony,0.8105,0.8105,0.0
+claude,What are the most popular headphone brands in 2025?,Sony,0.8638,0.8638,0.0
+claude,What are the best wireless headphones under $200?,Sony,0.9925,0.9925,0.9925
+claude,What are the best wireless headphones under $200?,Sony,0.9904,0.9904,0.9904
+claude,"I’ve been researching a lot of the well-known headphone brands like Sony, Bose, Soundcore and Sennheiser, but honestly, I’m feeling pretty overwhelmed by all the options. I’m looking for a good recommendation—something high quality, but I’d like to keep it under $300. What would you suggest?",Sony,0.9927,0.0,0.0
+claude,"I’ve been researching a lot of the well-known headphone brands like Sony, Bose, Soundcore and Sennheiser, but honestly, I’m feeling pretty overwhelmed by all the options. I’m looking for a good recommendation—something high quality, but I’d like to keep it under $300. What would you suggest?",Sony,0.9851,0.0,0.0
+claude,What are the best headphones in 2025?,Sony,0.7998,0.0,0.0
+claude,What are the best headphones in 2025?,Sony,0.9263,0.0,0.0
+claude,"What are the best headphones in each price range (budget, mid-range, premium)?",Sony,0.7264,0.0,0.0
+claude,"What are the best headphones in each price range (budget, mid-range, premium)?",Sony,0.6124,0.0,0.6124
+claude,What are the best headphones with best sound quality?,Sennheiser,0.836,0.0,0.0
+claude,What are the best headphones with best sound quality?,Sennheiser,0.886,0.0,0.0
+claude,What are the best headphones with great battery life?,Sony,0.8934,0.8934,0.8934
+claude,What are the best headphones with great battery life?,Sony,0.9477,0.9477,0.9477
+claude,What are the best headphones for working from home or in an office?,Sony,0.9559,0.9559,0.0
+claude,What are the best headphones for working from home or in an office?,Sony,0.9231,0.0,0.9231
+claude,What are the best headphones for working out at the gym?,Beats,0.0,0.9901,0.9901
+claude,What are the best headphones for working out at the gym?,Beats,0.9839,0.9839,0.9839
+claude,What are the best headphones with good active noise cancellation?,Sony,0.975,0.0,0.975
+claude,What are the best headphones with good active noise cancellation?,Sony,0.9948,0.0,0.9948
+claude,Are expensive headphones worth it compared with cheaper headphones?,Sony,0.976,0.0,0.0
+claude,Are expensive headphones worth it compared with cheaper headphones?,Sony,0.9753,0.0,0.0
+claude,What are some underrated headphone brands in 2025?,None,0.0,0.0,0.0
+claude,What are some underrated headphone brands in 2025?,None,0.0,0.0,0.0
+claude,Sony WH-1000XM5 vs Beats Studio Pro - which is better and why?,Sony,0.9865,0.9865,0.0
+claude,Sony WH-1000XM5 vs Beats Studio Pro - which is better and why?,Sony,0.9916,0.9916,0.0
+claude,"Compare Sony, Beats, and Bose headphones overall – which is better and why?",Sony,0.9955,0.9955,0.0
+claude,"Compare Sony, Beats, and Bose headphones overall – which is better and why?",Sony,0.9963,0.9963,0.0
+claude,Soundcore Space Q45 vs Sony WH-CH720N comparison,Soundcore,0.984,0.0,0.984
+claude,Soundcore Space Q45 vs Sony WH-CH720N comparison,Soundcore,0.9618,0.0,0.9618
+claude,Are Beats headphones worth the price compared with Sony headphones?,Beats,0.9821,0.9821,0.0
+claude,Are Beats headphones worth the price compared with Sony headphones?,Beats,0.9855,0.9855,0.0
+claude,Which headphone brand has the best noise cancellation?,Bose,0.9885,0.0,0.0
+claude,Which headphone brand has the best noise cancellation?,Bose,0.9895,0.0,0.0
+claude,What are the best headphones for bass-heavy music?,Sony,0.9578,0.9578,0.0
+claude,What are the best headphones for bass-heavy music?,Sony,0.946,0.946,0.0
+claude,What are the most durable headphones that can last for years of daily use?,Sennheiser,0.743,0.0,0.0
+claude,What are the most durable headphones that can last for years of daily use?,Sennheiser,0.9325,0.0,0.0
+claude,Which headphones have the best battery life?,Sony,0.836,0.836,0.836
+claude,Which headphones have the best battery life?,Sony,0.9666,0.9666,0.9666
+claude,What are the best headphones for gaming on budget?,None,0.0,0.0,0.0
+claude,What are the best headphones for gaming on budget?,None,0.0,0.0,0.0
+claude,How has the headphone market changed over the past 5 years? Which brands have risen or declined?,Sony,0.9914,0.9914,0.0
+claude,How has the headphone market changed over the past 5 years? Which brands have risen or declined?,Sony,0.9839,0.9839,0.0
+claude,"Compare how Sony, Beats, and Soundcore have evolved as brands in recent years.",Sony,0.9871,0.9871,0.9871
+claude,"Compare how Sony, Beats, and Soundcore have evolved as brands in recent years.",Sony,0.9826,0.9826,0.9826
+gemini,Tell me about Sony Headphones - Are they any good?,Sony,0.9883333333333333,0.0,0.0
+gemini,Tell me about Sony Headphones - Are they any good?,Sony,0.9953000000000001,0.0,0.0
+gemini,Tell me about Beats Headphones - Are they any good?,Beats,0.9995,0.9995,0.0
+gemini,Tell me about Beats Headphones - Are they any good?,Beats,0.9994,0.9994,0.0
+gemini,Tell me about Soundcore Headphones - Are they any good?,Soundcore,0.99465,0.0,0.99465
+gemini,Tell me about Soundcore Headphones - Are they any good?,Soundcore,0.9978,0.0,0.9978
+gemini,What are the most popular headphone brands in 2025?,Sony,0.9991,0.9991,0.9991
+gemini,What are the most popular headphone brands in 2025?,Beats,0.9992,0.9992,0.9992
+gemini,What are the best wireless headphones under $200?,Sony,0.9997,0.0,0.9997
+gemini,What are the best wireless headphones under $200?,Sony,0.9997,0.0,0.9997
+gemini,"I’ve been researching a lot of the well-known headphone brands like Sony, Bose, Soundcore and Sennheiser, but honestly, I’m feeling pretty overwhelmed by all the options. I’m looking for a good recommendation—something high quality, but I’d like to keep it under $300. What would you suggest?",Sony,0.9998,0.0,0.9998
+gemini,"I’ve been researching a lot of the well-known headphone brands like Sony, Bose, Soundcore and Sennheiser, but honestly, I’m feeling pretty overwhelmed by all the options. I’m looking for a good recommendation—something high quality, but I’d like to keep it under $300. What would you suggest?",Sony,0.9998,0.0,0.9998
+gemini,What are the best headphones in 2025?,Sony,0.9987,0.0,0.0
+gemini,What are the best headphones in 2025?,Sony,0.9991,0.0,0.9991
+gemini,"What are the best headphones in each price range (budget, mid-range, premium)?",Soundcore,0.9999,0.0,0.9999
+gemini,"What are the best headphones in each price range (budget, mid-range, premium)?",Soundcore,0.9999,0.0,0.9999
+gemini,What are the best headphones with best sound quality?,Sennheiser,0.9998,0.0,0.0
+gemini,What are the best headphones with best sound quality?,Sennheiser,0.9998,0.0,0.0
+gemini,What are the best headphones with great battery life?,Sony,0.9997,0.0,0.9997
+gemini,What are the best headphones with great battery life?,Sennheiser,0.9998,0.0,0.9998
+gemini,What are the best headphones for working from home or in an office?,Sony,0.9998,0.0,0.9998
+gemini,What are the best headphones for working from home or in an office?,Sony,0.9992,0.0,0.9994
+gemini,What are the best headphones for working out at the gym?,Beats,0.9999,0.9999,0.9999
+gemini,What are the best headphones for working out at the gym?,Beats,0.0,0.9998,0.9998
+gemini,What are the best headphones with good active noise cancellation?,Sony,0.9997,0.0,0.0
+gemini,What are the best headphones with good active noise cancellation?,Sony,0.9995,0.0,0.0
+gemini,Are expensive headphones worth it compared with cheaper headphones?,Sony,0.9987,0.0,0.0
+gemini,Are expensive headphones worth it compared with cheaper headphones?,Sony,0.999,0.0,0.0
+gemini,What are some underrated headphone brands in 2025?,Sony,0.9961,0.0,0.0
+gemini,What are some underrated headphone brands in 2025?,Sony,0.9984,0.0,0.0
+gemini,Sony WH-1000XM5 vs Beats Studio Pro - which is better and why?,Sony,0.99115,0.99115,0.0
+gemini,Sony WH-1000XM5 vs Beats Studio Pro - which is better and why?,Sony,0.99195,0.99195,0.0
+gemini,"Compare Sony, Beats, and Bose headphones overall – which is better and why?",Sony,0.9998,0.9998,0.0
+gemini,"Compare Sony, Beats, and Bose headphones overall – which is better and why?",Sony,0.9598500000000001,0.9598500000000001,0.0
+gemini,Soundcore Space Q45 vs Sony WH-CH720N comparison,Soundcore,0.9996,0.0,0.9996
+gemini,Soundcore Space Q45 vs Sony WH-CH720N comparison,Soundcore,0.9991,0.0,0.9991
+gemini,Are Beats headphones worth the price compared with Sony headphones?,Sony,0.9302666666666667,0.9302666666666667,0.0
+gemini,Are Beats headphones worth the price compared with Sony headphones?,Sony,0.9231333333333334,0.9231333333333334,0.0
+gemini,Which headphone brand has the best noise cancellation?,Sony,0.9958,0.0,0.0
+gemini,Which headphone brand has the best noise cancellation?,Sony,0.9985,0.0,0.0
+gemini,What are the best headphones for bass-heavy music?,Sony,0.9994,0.0,0.0
+gemini,What are the best headphones for bass-heavy music?,Sony,0.9997,0.0,0.0
+gemini,What are the most durable headphones that can last for years of daily use?,Sennheiser,0.9033,0.0,0.0
+gemini,What are the most durable headphones that can last for years of daily use?,Sennheiser,0.9927,0.0,0.0
+gemini,Which headphones have the best battery life?,Sennheiser,0.9989,0.0,0.9989
+gemini,Which headphones have the best battery life?,Soundcore,0.9919,0.0,0.89125
+gemini,What are the best headphones for gaming on budget?,None,0.0,0.0,0.0
+gemini,What are the best headphones for gaming on budget?,None,0.0,0.0,0.0
+gemini,How has the headphone market changed over the past 5 years? Which brands have risen or declined?,Bose,0.998,0.998,0.998
+gemini,How has the headphone market changed over the past 5 years? Which brands have risen or declined?,Sony,0.9967,0.9966,0.9967
+gemini,"Compare how Sony, Beats, and Soundcore have evolved as brands in recent years.",Sony,0.902625,0.9671666666666666,0.9671666666666666
+gemini,"Compare how Sony, Beats, and Soundcore have evolved as brands in recent years.",Sony,0.9794999999999999,0.9809,0.9887

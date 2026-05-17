@@ -1,0 +1,31 @@
+category,brand,visibility_rate
+Attributes,Sony,0.8666666666666667
+Attributes,Beats,0.2833333333333333
+Attributes,Soundcore,0.43333333333333335
+Attributes,Bose,0.6
+Attributes,Sennheiser,0.7333333333333333
+Brand Awareness,Sony,0.9583333333333334
+Brand Awareness,Beats,0.5
+Brand Awareness,Soundcore,0.3333333333333333
+Brand Awareness,Bose,0.625
+Brand Awareness,Sennheiser,0.5
+Brand Evolution,Sony,1.0
+Brand Evolution,Beats,1.0
+Brand Evolution,Soundcore,0.5
+Brand Evolution,Bose,1.0
+Brand Evolution,Sennheiser,0.5
+Comparison,Sony,1.0
+Comparison,Beats,0.75
+Comparison,Soundcore,0.5
+Comparison,Bose,0.2916666666666667
+Comparison,Sennheiser,0.0
+Price-Specific,Sony,0.9
+Price-Specific,Beats,0.26666666666666666
+Price-Specific,Soundcore,0.3333333333333333
+Price-Specific,Bose,0.3333333333333333
+Price-Specific,Sennheiser,0.4
+Recommendations,Sony,1.0
+Recommendations,Beats,0.0
+Recommendations,Soundcore,0.5
+Recommendations,Bose,1.0
+Recommendations,Sennheiser,0.9166666666666666

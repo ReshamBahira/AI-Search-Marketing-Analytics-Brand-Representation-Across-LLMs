@@ -1,0 +1,101 @@
+topic_label,brand,llm,mentioned
+ANC / Noise Cancellation,Beats,claude,0
+ANC / Noise Cancellation,Beats,gemini,0
+ANC / Noise Cancellation,Bose,claude,0
+ANC / Noise Cancellation,Bose,gemini,10
+ANC / Noise Cancellation,Sennheiser,claude,0
+ANC / Noise Cancellation,Sennheiser,gemini,11
+ANC / Noise Cancellation,Sony,claude,3
+ANC / Noise Cancellation,Sony,gemini,15
+ANC / Noise Cancellation,Soundcore,claude,2
+ANC / Noise Cancellation,Soundcore,gemini,11
+Brand Comparison,Beats,chatgpt,4
+Brand Comparison,Beats,claude,11
+Brand Comparison,Beats,gemini,0
+Brand Comparison,Bose,chatgpt,16
+Brand Comparison,Bose,claude,12
+Brand Comparison,Bose,gemini,1
+Brand Comparison,Sennheiser,chatgpt,15
+Brand Comparison,Sennheiser,claude,13
+Brand Comparison,Sennheiser,gemini,4
+Brand Comparison,Sony,chatgpt,16
+Brand Comparison,Sony,claude,17
+Brand Comparison,Sony,gemini,4
+Brand Comparison,Soundcore,chatgpt,15
+Brand Comparison,Soundcore,claude,13
+Brand Comparison,Soundcore,gemini,4
+Fitness / Gym Use,Beats,chatgpt,10
+Fitness / Gym Use,Beats,claude,8
+Fitness / Gym Use,Beats,gemini,8
+Fitness / Gym Use,Bose,chatgpt,10
+Fitness / Gym Use,Bose,claude,8
+Fitness / Gym Use,Bose,gemini,7
+Fitness / Gym Use,Sennheiser,chatgpt,10
+Fitness / Gym Use,Sennheiser,claude,5
+Fitness / Gym Use,Sennheiser,gemini,1
+Fitness / Gym Use,Sony,chatgpt,23
+Fitness / Gym Use,Sony,claude,15
+Fitness / Gym Use,Sony,gemini,13
+Fitness / Gym Use,Soundcore,chatgpt,4
+Fitness / Gym Use,Soundcore,claude,1
+Fitness / Gym Use,Soundcore,gemini,1
+Price / Value / Budget,Beats,chatgpt,4
+Price / Value / Budget,Beats,claude,4
+Price / Value / Budget,Beats,gemini,4
+Price / Value / Budget,Bose,chatgpt,4
+Price / Value / Budget,Bose,claude,6
+Price / Value / Budget,Bose,gemini,6
+Price / Value / Budget,Sennheiser,chatgpt,3
+Price / Value / Budget,Sennheiser,claude,3
+Price / Value / Budget,Sennheiser,gemini,6
+Price / Value / Budget,Sony,chatgpt,4
+Price / Value / Budget,Sony,claude,6
+Price / Value / Budget,Sony,gemini,6
+Price / Value / Budget,Soundcore,chatgpt,1
+Price / Value / Budget,Soundcore,claude,0
+Price / Value / Budget,Soundcore,gemini,5
+Sound Quality & Drivers,Beats,chatgpt,0
+Sound Quality & Drivers,Beats,claude,0
+Sound Quality & Drivers,Beats,gemini,2
+Sound Quality & Drivers,Bose,chatgpt,0
+Sound Quality & Drivers,Bose,claude,0
+Sound Quality & Drivers,Bose,gemini,1
+Sound Quality & Drivers,Sennheiser,chatgpt,0
+Sound Quality & Drivers,Sennheiser,claude,0
+Sound Quality & Drivers,Sennheiser,gemini,2
+Sound Quality & Drivers,Sony,chatgpt,0
+Sound Quality & Drivers,Sony,claude,0
+Sound Quality & Drivers,Sony,gemini,3
+Sound Quality & Drivers,Soundcore,chatgpt,0
+Sound Quality & Drivers,Soundcore,claude,0
+Sound Quality & Drivers,Soundcore,gemini,2
+Travel / Commuting,Beats,chatgpt,0
+Travel / Commuting,Beats,claude,0
+Travel / Commuting,Beats,gemini,0
+Travel / Commuting,Bose,chatgpt,1
+Travel / Commuting,Bose,claude,3
+Travel / Commuting,Bose,gemini,0
+Travel / Commuting,Sennheiser,chatgpt,3
+Travel / Commuting,Sennheiser,claude,3
+Travel / Commuting,Sennheiser,gemini,3
+Travel / Commuting,Sony,chatgpt,3
+Travel / Commuting,Sony,claude,4
+Travel / Commuting,Sony,gemini,6
+Travel / Commuting,Soundcore,chatgpt,0
+Travel / Commuting,Soundcore,claude,0
+Travel / Commuting,Soundcore,gemini,0
+Work / Calls / Microphone,Beats,chatgpt,2
+Work / Calls / Microphone,Beats,claude,2
+Work / Calls / Microphone,Beats,gemini,2
+Work / Calls / Microphone,Bose,chatgpt,0
+Work / Calls / Microphone,Bose,claude,0
+Work / Calls / Microphone,Bose,gemini,1
+Work / Calls / Microphone,Sennheiser,chatgpt,0
+Work / Calls / Microphone,Sennheiser,claude,0
+Work / Calls / Microphone,Sennheiser,gemini,0
+Work / Calls / Microphone,Sony,chatgpt,2
+Work / Calls / Microphone,Sony,claude,2
+Work / Calls / Microphone,Sony,gemini,2
+Work / Calls / Microphone,Soundcore,chatgpt,2
+Work / Calls / Microphone,Soundcore,claude,2
+Work / Calls / Microphone,Soundcore,gemini,2

@@ -1,0 +1,27 @@
+query,category,brand_context,intent_type,price_segment,use_case
+Tell me about Sony Headphones - Are they any good?,Brand Awareness,Sony,brand_awareness,NA,General
+Tell me about Beats Headphones - Are they any good?,Brand Awareness,Beats,brand_awareness,NA,Lifestyle / Culture
+Tell me about Soundcore Headphones - Are they any good?,Brand Awareness,Soundcore,brand_awareness,NA,General
+What are the most popular headphone brands in 2025?,Brand Awareness,General,brand_awareness,NA,General
+What are the best wireless headphones under $200?,Price-Specific,General,recommendation,Mid-range,Budget / Value
+"I’ve been researching a lot of the well-known headphone brands like Sony, Bose, Soundcore and Sennheiser, but honestly, I’m feeling pretty overwhelmed by all the options. I’m looking for a good recommendation—something high quality, but I’d like to keep it under $300. What would you suggest?",Price-Specific,Multi-brand,recommendation,Mid-range,Budget / Value
+What are the best headphones in 2025?,Recommendations,General,recommendation,NA,General Listening
+"What are the best headphones in each price range (budget, mid-range, premium)?",Recommendations,General,recommendation,Mixed,Budget / Value
+What are the best headphones with best sound quality?,Attributes,General,recommendation,NA,Tech-Focused / Features
+What are the best headphones with great battery life?,Attributes,General,recommendation,NA,General Listening
+What are the best headphones for working from home or in an office?,Attributes,General,recommendation,NA,Work / Productivity
+What are the best headphones for working out at the gym?,Attributes,General,recommendation,NA,Fitness / Sports
+What are the best headphones with good active noise cancellation?,Attributes,General,recommendation,NA,Tech-Focused / Features
+Are expensive headphones worth it compared with cheaper headphones?,Price-Specific,General,price_evaluation,NA,Budget / Value
+What are some underrated headphone brands in 2025?,Price-Specific,General,price_evaluation,NA,Budget / Value
+Sony WH-1000XM5 vs Beats Studio Pro - which is better and why?,Comparison,Multi-brand,comparison,NA,General
+"Compare Sony, Beats, and Bose headphones overall – which is better and why?",Comparison,Multi-brand,comparison,NA,General
+Soundcore Space Q45 vs Sony WH-CH720N comparison,Comparison,Multi-brand,comparison,NA,General
+Are Beats headphones worth the price compared with Sony headphones?,Price-Specific,Multi-brand,price_evaluation,NA,Budget / Value
+Which headphone brand has the best noise cancellation?,Attributes,General,recommendation,NA,Tech-Focused / Features
+What are the best headphones for bass-heavy music?,Attributes,General,recommendation,NA,General Listening
+What are the most durable headphones that can last for years of daily use?,Attributes,General,attribute_focus,NA,General
+Which headphones have the best battery life?,Attributes,General,recommendation,NA,General
+What are the best headphones for gaming on budget?,Attributes,General,recommendation,Budget,Budget / Value
+How has the headphone market changed over the past 5 years? Which brands have risen or declined?,Brand Evolution,General,market_trend,NA,General
+"Compare how Sony, Beats, and Soundcore have evolved as brands in recent years.",Comparison,Multi-brand,comparison,NA,General
